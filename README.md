@@ -54,15 +54,6 @@ Use real-time streaming data for live severity prediction.
 If you found this project useful, feel free to ⭐ star this repository and fork it to contribute further
 
 
-How to Run This Project
-1️⃣ Clone this repository:
-git clone https://github.com/B-Sneha95/CYBER_ATTACK_SEVERITY_PREDICTION.git
-2️⃣ Navigate to the project folder:
-cd Cyber-Attack-Severity-Prediction
-3️⃣ Open the Jupyter notebook:
-jupyter notebook cyber_attack_severity_prediction.ipynb
-4️⃣ Run the cells step-by-step to explore EDA, SMOTE handling, model training, and evaluation.
-
 
 
 
